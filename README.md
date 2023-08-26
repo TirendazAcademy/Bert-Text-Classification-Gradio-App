@@ -1,8 +1,9 @@
 # Text Classification App with Transformers & Comet ML & Gradio
 [![](https://img.shields.io/badge/Python-blue?style=plastic&logo=python&logoColor=white)]()
-[![](https://img.shields.io/badge/Transformers-0002A1?style=plastic&logo=huggingface&logoColor=white)]()
-[![](https://img.shields.io/badge/CometML-D71313?style=plastic&logo=cometml&logoColor=white)]()
-[![](https://img.shields.io/badge/Gradio-E14D2A?style=plastic&logo=gradio&logoColor=white)]()
+[![](https://img.shields.io/badge/huggingface-F8DE22?style=plastic&logo=huggingface&logoColor=white)]()
+[![](https://img.shields.io/badge/Transformers-D71313?style=plastic&logo=transformers&logoColor=white)]()
+[![](https://img.shields.io/badge/CometML-0002A1?style=plastic&logo=cometml&logoColor=white)]()
+[![](https://img.shields.io/badge/Gradio-A31ACB?style=plastic&logo=gradio&logoColor=white)]()
 
 This project aims to show how to perform an end-to-end text classification project. To do this, I used [Transformers](https://huggingface.co/docs/transformers/index) for fine-tuning the BERT model,  [Comet ML](https://www.comet.com/site/products/llmops/) for monitoring hyperparameters and the app, and [Gradio](https://www.gradio.app/docs/interface) for building the text classification app.
 
