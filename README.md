@@ -7,7 +7,9 @@
 
 This project aims to show how to perform an end-to-end text classification project. To do this, I used [Transformers](https://huggingface.co/docs/transformers/index) for fine-tuning the BERT model,  [Comet ML](https://www.comet.com/site/products/llmops/) for monitoring hyperparameters and the app, and [Gradio](https://www.gradio.app/docs/interface) for building the text classification app.
 
-You can look at this app on [my HuggingFace space](https://huggingface.co/spaces/Tirendaz/Text-Classification)
+You can check out [my medium blog post for this project](https://medium.com/cometheartbeat/building-a-text-classifier-app-with-hugging-face-bert-and-comet-278e4cd0d0aa).
+
+You can review this app on [my HuggingFace space](https://huggingface.co/spaces/Tirendaz/Text-Classification).
 
 # Text Classification App
 
